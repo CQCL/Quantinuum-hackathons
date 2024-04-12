@@ -9,7 +9,7 @@ Getting started notebooks for Quantinuum hackathons
 
 Quantinuum Nexus allows you to develop, execute, manage, and share all your quantum projects on one easy-to-use cloud platform. If you have been given
 a Quantinuum Nexus account as part of this hackathon, please login to Nexus and open the Nexus Lab Jupyter environment. Once in the Lab workspace, 
-click on the Git icon in the left-most panel, clone this repository and open work through the example notebooks.
+click on the Git icon in the left-most panel, clone this repository, open the example notebooks and work through the examples.
 
 
 ## Documentation
