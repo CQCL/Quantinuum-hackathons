@@ -15,5 +15,5 @@ Once in the Lab workspace, click on the Git icon in the left-most panel, clone t
 
 * [Example notebooks](https://tket.quantinuum.com/examples/Getting_started.html)
 * [pytket user manual](https://tket.quantinuum.com/user-manual/)
-* [pytket API documentation](https://tket.quantinuum.com/api-docs/) 
+* [pytket API documentation](https://tket.quantinuum.com/api-docs/)
 * [Quantinuum Nexus documentation (requires Nexus account)](https://nexus.quantinuum.com/docs)
