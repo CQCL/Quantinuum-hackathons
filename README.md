@@ -8,13 +8,11 @@ Getting started notebooks for Quantinuum hackathons
 ## Quantinuum Nexus Instructions
 
 Quantinuum Nexus allows you to develop, execute, manage, and share all your quantum projects on one easy-to-use cloud platform. If you have been given
-a Quantinuum Nexus account as part of this hackathon, please login to Nexus and open the Nexus Lab Jupyter environment. Once in the Lab workspace, 
-click on the Git icon in the left-most panel, clone this repository, open the example notebooks and work through the examples.
+a Quantinuum Nexus account as part of this hackathon, please login to Nexus and open the Nexus Lab Jupyter environment. This environment will have all of the software packages that you need to start submitting jobs. Once in the Lab workspace, click on the Git icon in the left-most panel, clone this repository, open the example notebooks and work through the examples.
 
 
 ## Documentation
 
-* [Example notebooks](https://tket.quantinuum.com/examples/Getting_started.html)
-* [pytket user manual](https://tket.quantinuum.com/user-manual/)
-* [pytket API documentation](https://tket.quantinuum.com/api-docs/) 
-* [Quantinuum Nexus documentation (requires Nexus account)](https://nexus.quantinuum.com/docs) 
+* [Example Nexus notebooks](https://docs.quantinuum.com/nexus/trainings/notebooks/basics/getting_started.html)
+* [pytket user guide](https://docs.quantinuum.com/tket/user-guide/)
+* [pytket API documentation](https://docs.quantinuum.com/tket/api-docs/)
